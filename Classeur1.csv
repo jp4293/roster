@@ -26,13 +26,13 @@ TEAM,ACC,Atlantic,Clemson,CLEM,95,GT,,,,,,,
 TEAM,ACC,Atlantic,Florida St,FSU,90,UM,,,,,,,
 TEAM,ACC,Atlantic,McGill University,MGU,80,UDEM,,,,,,,
 TEAM,ACC,Atlantic,NC State,NCST,80,UNC,,,,,,,
-TEAM,ACC,Atlantic,Syracuse,SYR,75,PITT,,,,,,,
+TEAM,ACC,Atlantic,UQTR,UQTR,75,ULAV,,,,,,,
 TEAM,ACC,Atlantic,Boston College,BC,70,VT,,,,,,,
 TEAM,ACC,Atlantic,Sherbrooke,SHER,55,CONC,,,,,,,
 TEAM,ACC,Coastal,Miami,UM,90,FSU,,,,,,,
 TEAM,ACC,Coastal,Virginia Tech,VT,85,BC,,,,,,,
 TEAM,ACC,Coastal,UNC,UNC,80,NCST,,,,,,,
-TEAM,ACC,Coastal,Pittsburgh,PITT,75,SYR,,,,,,,
+TEAM,ACC,Coastal,Laval University,ULAV,75,UQTR,,,,,,,
 TEAM,ACC,Coastal,Georgia Tech,GT,75,CLEM,,,,,,,
 TEAM,ACC,Coastal,Concordia,CONC,65,SHER,,,,,,,
 TEAM,ACC,Coastal,Montreal University,UDEM,80,MGU,,,,,,,
@@ -105,9 +105,18 @@ TEAM,AAC,East,Connecticut,CONN,55,TLSA,,,,,,,
 # Player format:,Team,Position,Name,Year (String),Height,Weight,Stars,,,,,,
 # PLAYER,ALA,QB,Tua Tagovailoa,So,72,200,5,,,,,,
 # OR:,Team,Position,Name,Year (String),Height,Weight,Potential,Football IQ,Durability,Attribute1,Attribute2,Attribute3,Attribute4
-PLAYER,UDEM,RB,Jeremy Poitras,Fr,72,200,95,95,100,80,85,95,95
-PLAYER,UDEM,OL,Sebastien Poirier,Fr,72,200,95,95,100,80,85,95,95
-PLAYER,UDEM,CB,Maxime Marot,Fr,72,200,95,95,100,80,85,95,95
-PLAYER,UDEM,LB,Maxime Arsenault,Fr,72,200,95,95,100,80,85,95,95
-PLAYER,UDEM,TE,Mathieu Doyle,Fr,72,200,95,95,100,80,85,95,95
+COACH,UDEM,Danny Maciocia,35,90,90,90,90,Pro Style,Aggressive,,,,
+OC,UDEM,Mark Bowes,35,90,QB,Outside Run,,,,,,,
+DC,UDEM,Luke Tate,35,95,LB,Inside Run,,,,,,,
+PLAYER,UDEM,S,Patrick Nadeau,Fr,72,200,95,95,100,80,85,95,95
+PLAYER,UDEM,LB,Chris Marineau,Fr,73,210,95,95,100,80,85,95,95
+PLAYER,UDEM,RB,Jeremy Poitras,Fr,71,200,95,95,100,80,85,95,95
+PLAYER,UDEM,OL,Remi Giguere,Fr,76,270,95,95,100,80,85,95,95
+PLAYER,UDEM,OL,Marc Giguere,Fr,76,270,95,95,100,80,85,95,95
+PLAYER,UDEM,DL,Marc Plouffe,Fr,76,270,95,95,100,80,85,95,95
+PLAYER,UDEM,OL,Sebastien Poirier,Fr,77,279,95,95,100,80,85,95,95
+PLAYER,UDEM,CB,Maxime Marot,Fr,73,200,95,95,100,80,85,95,95
+PLAYER,UDEM,LB,Maxime Arsenault,Fr,75,230,95,95,100,80,85,95,95
+PLAYER,UDEM,TE,Mathieu Doyle,Fr,79,240,95,95,100,80,85,95,95
+PLAYER,UDEM,WR,Marco Tello,Fr,71,185,95,95,100,80,85,95,95
 END_FILE,,,,,,,,,,,,,
